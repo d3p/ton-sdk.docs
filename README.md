@@ -1,6 +1,6 @@
 [![GraphQL API](https://img.shields.io/github/v/release/tonlabs/ton-q-server?label=GraphQL%20API)](https://github.com/tonlabs/ton-q-server)
 
-[![tonos-se](https://img.shields.io/docker/v/tonlabs/local-node?color=blue&label=tonos-se)](https://github.com/tonlabs/tonos-se)
+[![tonos-se](https://img.shields.io/docker/v/tonlabs/local-node?color=blue&label=tonos-se)](https://hub.docker.com/r/tonlabs/local-node)
 
 [![TON-SDK](https://img.shields.io/github/v/release/tonlabs/TON-SDK?label=TON-SDK)](https://github.com/tonlabs/TON-SDK)
 
